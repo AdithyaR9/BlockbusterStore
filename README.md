@@ -1,7 +1,9 @@
 # BlockbusterStore
 
 Created June 2019
-Uploaded July 2021 
+Uploaded July 30 2021 
+
+*I created this for fun to see what I could create that also had a practical application other than providing fun. 
 
 This is a program, that runs in the console, that will allow a user to rent games and movies from a video store. 
 
